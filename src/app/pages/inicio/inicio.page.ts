@@ -30,6 +30,11 @@ export class InicioPage implements OnInit {
       icon: 'accessibility-outline',
       name: 'Avatar',
       redirectTo: '/avatar'
+    },
+    {
+      icon: 'add-circle-outline',
+      name: 'Botones',
+      redirectTo: '/button'
     }
   ];
 
